@@ -35,7 +35,7 @@ Box-shadow and contrast create depth in design.
 ## Live Demo
 
 View Live:  
-(Add GitHub Pages link here after deployment)
+https://25a31a05da.github.io/SETTINGS-PANNEL/
 
 ---
 
